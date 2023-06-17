@@ -1,7 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
-  font-family: "Inter";
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #root {
   background: black;
@@ -49,4 +49,7 @@ input::placeholder {
   font-size: 15px;
   width: 100px;
   padding:5px;
+}
+h1{
+  font-weight: 400;
 }

@@ -20,7 +20,7 @@ function Form() {
     }else if(password!==cnfPassword){
       setErrorText("Error : Password mismatch");
     }else{
-      setSuccessText("Signed Up Successfully !");
+      setSuccessText("Successfully Signed Up!");
     }
     console.log(name,email,password,cnfPassword);
   };
